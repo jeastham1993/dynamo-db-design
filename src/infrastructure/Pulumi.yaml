@@ -1,0 +1,3 @@
+name: git-dynamo-db
+runtime: nodejs
+description: Infrastructure code for sample git implementations
